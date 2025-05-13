@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DAE6E99-7793-490F-925C-9E84A57CD18B}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|c:\\users\\azsoft\\source\\repos\\consoleapp54\\consoleapp54\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C71B92-3327-414F-AD74-1240C1FD70B4}|ConsoleApp54\\ConsoleApp54.csproj|solutionrelative:consoleapp54\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +22,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Account.cs",
-              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Account.cs",
-              "RelativeDocumentMoniker": "ConsoleApp54\\Account.cs",
-              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Account.cs",
-              "RelativeToolTip": "ConsoleApp54\\Account.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAvwDUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T21:32:22.481Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Rectangle.cs",
-              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Rectangle.cs",
-              "RelativeDocumentMoniker": "ConsoleApp54\\Rectangle.cs",
-              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Rectangle.cs",
-              "RelativeToolTip": "ConsoleApp54\\Rectangle.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAArwBYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T18:04:21.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Shape.cs",
-              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Shape.cs",
-              "RelativeDocumentMoniker": "ConsoleApp54\\Shape.cs",
-              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Shape.cs",
-              "RelativeToolTip": "ConsoleApp54\\Shape.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:15:59.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Vehicle.cs",
-              "RelativeDocumentMoniker": "ConsoleApp54\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Vehicle.cs",
-              "RelativeToolTip": "ConsoleApp54\\Vehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:22:20.55Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Car.cs",
-              "RelativeDocumentMoniker": "ConsoleApp54\\Car.cs",
-              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Car.cs",
-              "RelativeToolTip": "ConsoleApp54\\Car.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAvwBMAAAAMAAAAAAAAAA==",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Book.cs",
+              "RelativeDocumentMoniker": "ConsoleApp54\\Book.cs",
+              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Book.cs",
+              "RelativeToolTip": "ConsoleApp54\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:21:40.867Z"
+              "WhenOpened": "2025-05-13T06:19:58.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp54\\Product.cs",
+              "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Product.cs",
+              "RelativeToolTip": "ConsoleApp54\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAjwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:41:20.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -104,9 +58,9 @@
               "RelativeDocumentMoniker": "ConsoleApp54\\Program.cs",
               "ToolTip": "C:\\Users\\AzSoft\\source\\repos\\ConsoleApp54\\ConsoleApp54\\Program.cs",
               "RelativeToolTip": "ConsoleApp54\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAArwAgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T21:19:32.676Z",
+              "WhenOpened": "2025-05-13T05:02:30.633Z",
               "EditorCaption": ""
             }
           ]
